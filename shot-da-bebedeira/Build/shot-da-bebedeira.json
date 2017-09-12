@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "shot-da-bebedeira.data.unityweb",
+"asmCodeUrl": "shot-da-bebedeira.asm.code.unityweb",
+"asmMemoryUrl": "shot-da-bebedeira.asm.memory.unityweb",
+"asmFrameworkUrl": "shot-da-bebedeira.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
